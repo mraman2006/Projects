@@ -21,7 +21,7 @@ public class Main {
             System.err.println("No console.");
             System.exit(1);
         }*/
-		System.out.println(scan);
+		//System.out.println(scan);
 		//scan.reset();
 		if(scan.hasNext()){
 		Pattern pattern = Pattern.compile(scan.next());
@@ -30,5 +30,7 @@ public class Main {
 			System.out.format("Found text: %s, at position %d\n", matcher.group(), matcher.start());
 		}
 		}
+		
+		
 	}
 }
