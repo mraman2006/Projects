@@ -1,0 +1,11 @@
+(([jJ]anuary|[fF]ebruary|[mM]arch|[aA]pril|[mM]ay|[jJ]une|[jJ]uly|[aA]ugust|[sS]eptember|[oO]ctober|[nN]ovember|[dD]ecember)|(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec))\s+\d{1,2}(th|rd|nd|st)?\b
+\d{1,2}(th|rd|nd|st)\s+of\s+(([jJ]anuary|[fF]ebruary|[mM]arch|[aA]pril|[mM]ay|[jJ]une|[jJ]uly|[aA]ugust|[sS]eptember|[oO]ctober|[nN]ovember|[dD]ecember)|(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec))
+Christmas
+New Year'?s? Day
+Martin Luther King,? Jr\.? Day
+Independence Day
+Thanksgiving
+Veterans Day
+Columbus Day
+Labor Day
+Washington'?s? Birthday
